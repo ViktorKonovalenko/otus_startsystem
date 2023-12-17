@@ -8,6 +8,9 @@
 ![Image alt](https://github.com/ViktorKonovalenko/otus_startsystem/raw/main/image/startsystem2.png)
 Способ 2: rd.break<br>
 Прописываем в конце строки linux16: rd.break и нажимаем ctrl+x 
+<p align="center">
+ <img width="200px" src="image/startsystem3.png" alt="qr"/>
+</p>
 ![startsystem3](https://github.com/ViktorKonovalenko/otus_startsystem/assets/32430041/a98b7346-70c2-471d-9178-01e066a8dfad)
 Система загружена 
 ![startsystem4](https://github.com/ViktorKonovalenko/otus_startsystem/assets/32430041/144be26b-f68b-4ec8-9685-b68194b21afb)
