@@ -3,7 +3,7 @@
 <h3>Часть 1: попасть в систему без пароля</h3>
 Способ 1: init=/bin/sh<br>
 Прописываем в конце строки linux16: init=/bin/sh и нажимаем ctrl+x 
-<img href=![startsystem](https://github.com/ViktorKonovalenko/otus_startsystem/assets/32430041/61536be5-d5a3-48ca-aceb-9b1f6a033601)>
+![Image alt]![startsystem](https://github.com/ViktorKonovalenko/otus_startsystem/assets/32430041/61536be5-d5a3-48ca-aceb-9b1f6a033601)
 Система загрузилась
 ![startsystem2](https://github.com/ViktorKonovalenko/otus_startsystem/assets/32430041/d3ef7d0b-0a97-4880-8d1e-888ccb457a4b)
 Способ 2: rd.break<br>
