@@ -2,10 +2,10 @@
 <h1>Домашняя работа</h1>
 <h3>Часть 1: попасть в систему без пароля</h3>
 Способ 1: init=/bin/sh<br>
-Прописываем в конце строки linux16: init=/bin/sh и нажимаем ctrl+x 
+Прописываем в конце строки linux16: init=/bin/sh и нажимаем ctrl+x <br>
 ![Image alt](https://github.com/ViktorKonovalenko/otus_startsystem/blob/main/image/startsystem.png)
 Система загрузилась
-![startsystem2](https://github.com/ViktorKonovalenko/otus_startsystem/assets/32430041/d3ef7d0b-0a97-4880-8d1e-888ccb457a4b)
+![Image alt](https://github.com/ViktorKonovalenko/otus_startsystem/raw/main/image/startsystem2.png)
 Способ 2: rd.break<br>
 Прописываем в конце строки linux16: rd.break и нажимаем ctrl+x 
 ![startsystem3](https://github.com/ViktorKonovalenko/otus_startsystem/assets/32430041/a98b7346-70c2-471d-9178-01e066a8dfad)
