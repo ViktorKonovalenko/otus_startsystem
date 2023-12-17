@@ -3,23 +3,34 @@
 <h3>Часть 1: попасть в систему без пароля</h3>
 Способ 1: init=/bin/sh<br>
 Прописываем в конце строки linux16: init=/bin/sh и нажимаем ctrl+x <br>
-![Image alt](https://github.com/ViktorKonovalenko/otus_startsystem/blob/main/image/startsystem.png)
+<p align="left">
+ <img width="1000px" src="image/startsystem.png" alt="qr"/>
+</p>
 Система загрузилась
-![Image alt](https://github.com/ViktorKonovalenko/otus_startsystem/raw/main/image/startsystem2.png)
+<p align="left">
+ <img width="1000px" src="image/startsystem2.png" alt="qr"/>
+</p>
 Способ 2: rd.break<br>
 Прописываем в конце строки linux16: rd.break и нажимаем ctrl+x 
 <p align="left">
  <img width="1000px" src="image/startsystem3.png" alt="qr"/>
 </p>
-![startsystem3](https://github.com/ViktorKonovalenko/otus_startsystem/assets/32430041/a98b7346-70c2-471d-9178-01e066a8dfad)
 Система загружена 
-![startsystem4](https://github.com/ViktorKonovalenko/otus_startsystem/assets/32430041/144be26b-f68b-4ec8-9685-b68194b21afb)
+<p align="left">
+ <img width="1000px" src="image/startsystem4.png" alt="qr"/>
+</p>
 Способ 3: init=/sysroot/bin/sh<br>
-![startsystem5](https://github.com/ViktorKonovalenko/otus_startsystem/assets/32430041/657c407f-36fa-4d17-80ff-53502cb4cc70)
+<p align="left">
+ <img width="1000px" src="image/startsystem5.png" alt="qr"/>
+</p>
 Система загружена 
-![startsystem6](https://github.com/ViktorKonovalenko/otus_startsystem/assets/32430041/64e290a4-eea8-441d-88e0-3df3ded3b260)
+<p align="left">
+ <img width="1000px" src="image/startsystem6.png" alt="qr"/>
+</p>
 <h3>Часть 2: переименование volume group в lvm</h3>
 <a>Лог действий</a>
 <h3>Часть 3: добавление модуля в initrd</h3>
 <a>Лог действий</a>
-![startsystem7](https://github.com/ViktorKonovalenko/otus_startsystem/assets/32430041/b4d5871b-c02b-4373-a88b-49db55bdd7a3)
+<p align="left">
+ <img width="1000px" src="image/startsystem7.png" alt="qr"/>
+</p>
