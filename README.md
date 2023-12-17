@@ -28,7 +28,7 @@
  <img width="1000px" src="image/startsystem6.png" alt="qr"/>
 </p>
 <h3>Часть 2: переименование volume group в lvm</h3>
-<a>Лог действий</a>
+<a href=typescript>Лог действий</a>
 <h3>Часть 3: добавление модуля в initrd</h3>
 <a>Лог действий</a>
 <p align="left">
